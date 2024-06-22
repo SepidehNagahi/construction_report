@@ -1,0 +1,9 @@
+from construction_report.view.person_view import PersonView
+from construction_report.view.user_view import UserView
+from construction_report.view.daily_report_view import DailyReportView
+from construction_report.view.inventory_view import InventoryView
+from construction_report.view.monthly_report_view import MonthlyReportView
+from construction_report.view.warehouse_view import WarehouseView
+from construction_report.view.workers_view import WorkersView
+from construction_report.view.login_view import LoginView
+
